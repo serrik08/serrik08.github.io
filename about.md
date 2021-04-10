@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
+Soy un desarrollador Full Stack enfocado al desarrollo backend. También escribo sobre desarrollo de software, Python y noticias en tecnología.
+
+Bienvenido y gracias por pasar. Espero que disfrutes explorando este sitio tanto como yo disfruté construyéndolo.
+
+Mientras estás aquí, puedes consultar las publicaciones de mi blog, obtener más información sobre mí o ponerse en contacto.
 Some information about you!
 
-### More Information
+### Contáctame
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[srgr89@gmail.com](mailto:srgr89@gmail.com)
